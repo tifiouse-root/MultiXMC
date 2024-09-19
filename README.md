@@ -33,7 +33,7 @@
 
 Visit the [official site](https://xmcl.app) to download the app!
 
-If you have winget, you can use winget to install.
+If you have winget, you can use winget to install
 
 ```bash
 winget install CI010.XMinecraftLauncher
